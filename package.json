@@ -1,0 +1,28 @@
+{
+  "name": "chow",
+  "version": "0.0.1",
+  "description": "Hoarder with TTL, max size and elements limit conditions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artjock/chow.git"
+  },
+  "keywords": [
+    "cache",
+    "hoarder",
+    "ttl",
+    "size"
+  ],
+  "author": "Artur Burtsev <artjock@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artjock/chow/issues"
+  },
+  "homepage": "https://github.com/artjock/chow",
+  "dependencies": {
+    "xtnd": "0.0.12"
+  }
+}
